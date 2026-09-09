@@ -2,4 +2,4 @@ Today we are practising Git and GitHub.
 The goal is to understand the basic Git workflow.
 Git status helps me check my current changes.
 Test
-Test change 2
+changes on the new branch
