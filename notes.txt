@@ -1,0 +1,2 @@
+Today we are practising Git and GitHub.
+The goal is to understand the basic Git workflow.
